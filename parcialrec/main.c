@@ -20,7 +20,7 @@ int main()
     int opcion=0;
     while(seguir=='s')
     {
-        mostrarPersonas(listaPropetarios,tamPropetarios);
+       // mostrarPersonas(listaPropetarios,tamPropetarios);
 
         printf("\n");
         printf(" 1-  Alta de propetario\n");
