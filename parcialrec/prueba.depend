@@ -51,3 +51,29 @@
 1527162938 source:d:\palomo\programacion_1_laboratorio_1\funcara esta meirda\propetario.c
 	"propetario.h"
 
+1527162938 source:c:\users\alumno\desktop\palomo gomez gonzalo matias\recuperatoriolab1lenguajec\parcialrec\coches.c
+	"coches.h"
+
+1527162938 c:\users\alumno\desktop\palomo gomez gonzalo matias\recuperatoriolab1lenguajec\parcialrec\coches.h
+	"propetario.h"
+
+1527162938 c:\users\alumno\desktop\palomo gomez gonzalo matias\recuperatoriolab1lenguajec\parcialrec\propetario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1527162938 source:c:\users\alumno\desktop\palomo gomez gonzalo matias\recuperatoriolab1lenguajec\parcialrec\egresos.c
+	"egresos.h"
+
+1527162938 c:\users\alumno\desktop\palomo gomez gonzalo matias\recuperatoriolab1lenguajec\parcialrec\egresos.h
+	"coches.h"
+
+1527162938 source:c:\users\alumno\desktop\palomo gomez gonzalo matias\recuperatoriolab1lenguajec\parcialrec\main.c
+	<stdio.h>
+	<stdlib.h>
+	"egresos.h"
+
+1527162938 source:c:\users\alumno\desktop\palomo gomez gonzalo matias\recuperatoriolab1lenguajec\parcialrec\propetario.c
+	"propetario.h"
+
